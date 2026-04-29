@@ -1,0 +1,13 @@
+{
+  "name": "Remix: StudentProvidAI: Intelligent Education Scheme Engine",
+  "description": "An AI-powered platform for student scholarship eligibility analysis, automated document verification, and multilingual application guidance for educational schemes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Eligibility Engine",
+    "Multilingual Conversational Interface",
+    "Automated Document OCR",
+    "Real-time Application Tracking"
+  ]
+}
